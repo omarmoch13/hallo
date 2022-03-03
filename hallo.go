@@ -1,4 +1,4 @@
-package hello
+package hallo
 
 func SayHello() string{
 	return "hello"
